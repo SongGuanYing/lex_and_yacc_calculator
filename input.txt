@@ -1,0 +1,6 @@
+var1 = neg(3) -5
+var2=10+ var1
+var3 = log(100)+10
+var4 = abs(var1) - var2* cos(5)
+var5 = sin(var2) + 2^2* var3 - (var2 + var1)
+var6 = var3 ^var2
